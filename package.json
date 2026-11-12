@@ -2,6 +2,10 @@
   "name": "@wshcmx/forms",
   "version": "0.1.0",
   "description": "Standalone SPXML form parsing and inheritance resolution",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "type": "module",
   "engines": {
     "node": ">=24"
