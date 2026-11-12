@@ -2,9 +2,12 @@
   "name": "@wshcmx/forms",
   "version": "1.0.0",
   "description": "Standalone SPXML form parsing and inheritance resolution",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wshcmx/forms.git"
+  },
   "publishConfig": {
-    "access": "public",
-    "registry": "https://registry.npmjs.org/"
+    "access": "public"
   },
   "type": "module",
   "engines": {
